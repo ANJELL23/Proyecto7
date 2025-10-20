@@ -5,8 +5,8 @@ import plotly.express as px
 # Leer dataset
 car_data = pd.read_csv('vehicles_us.csv') 
 
-st.header("Análisis de Anuncios de Coches en USA")
-st.write("Esta aplicación permite visualizar histogramas y gráficos de dispersión interactivos del dataset.")
+st.header("Análisis de Anuncios de Venta de Coches en USA")
+st.write("Esta aplicación permite visualizar histogramas y gráficos de dispersión interactivos del dataset.\n\n Se puede explorar la información mediante:")
 
 # Histograma
 if st.checkbox('Mostrar histograma'):
