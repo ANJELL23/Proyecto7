@@ -6,3 +6,4 @@ Se puede explorar la información mediante:
 - **Gráfico de dispersión** entre Odometro y Precio.
 
 La app está construida con **Streamlit** y utiliza **Plotly Express** para gráficos interactivos.
+[Ver el dashboard online](https://proyecto7-tcch.onrender.com)
