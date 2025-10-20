@@ -2,8 +2,8 @@
 Esta aplicación web permite visualizar datos de anuncios de coches en USA.  
 Se puede explorar la información mediante:
 
-- **Histograma** de la columna Odometro.
-- **Gráfico de dispersión** entre Odometro y Precio.
+- Histograma de la columna Odometro.
+- Gráfico de dispersión entre Odometro y Precio.
 
-La app está construida con **Streamlit** y utiliza **Plotly Express** para gráficos interactivos.
-[Ver el dashboard online](https://proyecto7-tcch.onrender.com)
+La app está construida con Streamlit y utiliza Plotly Express para gráficos interactivos.
+[Ver el dashboard online](https://tu-app-en-render.onrender.com)
